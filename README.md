@@ -1,6 +1,6 @@
-# ¡Hola, soy Andres Sidoruk! 👋
+# ¡Hola, soy Santiago Juarez! 👋
 
-Bienvenido/a a mi perfil de GitHub. Estoy finalizando mis estudios en Tecnicatura en Programación - UTN. 
+Te doy la bienvenida a mi perfil de GitHub. Estoy finalizando mis estudios en Tecnicatura en Programación - UTN. 
 Me especializo en varios lenguajes y tecnologías, incluyendo HTML, Java, Python, JavaScript y CSS.
 
 ## Acerca de mí 🌟
