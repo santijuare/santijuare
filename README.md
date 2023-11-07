@@ -32,6 +32,6 @@ Me especializo en varios lenguajes y tecnologías, incluyendo HTML, Java, Python
 ¡Estoy siempre abierto a nuevas oportunidades! No dudes en contactarte conmigo:
 
 - 📧 Correo Electrónico: sjuarez010@gmail.com
-- 💼 [LinkedIn]([www.linkedin.com/in/andres-sidoruk-49b810288](https://www.linkedin.com/in/santiago-juarez-0aaa661a3/)https://www.linkedin.com/in/santiago-juarez-0aaa661a3/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/santiago-juarez-0aaa661a3/)
 
 ¡Gracias por pasar por mi perfil! 😊
