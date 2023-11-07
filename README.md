@@ -18,6 +18,7 @@ Me especializo en varios lenguajes y tecnologías, incluyendo HTML, Java, Python
 - 🖥️ Node.js: He explorado el entorno de ejecución de Node.js.
 - 🛢️ PGAdmin: He utilizado PGAdmin para administrar bases de datos PostgreSQL en proyectos de bases de datos.
 - 📱 Android Development (Java/Kotlin): He trabajado en el desarrollo de aplicaciones para dispositivos Android utilizando Java y Kotlin.
+- 📝Web Application Testing: Actualmente me encuentro realizando un curso de Testing Avanzado.
 
 
 
