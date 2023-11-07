@@ -9,17 +9,17 @@ Me especializo en varios lenguajes y tecnologías, incluyendo HTML, Java, Python
 - 💻 Me apasiona descubrir y aprender nuevas tecnologías y desarrollar soluciones creativas a problemas complejos.
 - 🌱 Estoy constantemente aprendiendo y mejorando mis habilidades de programación y desarrollo web.
 
-## Habilidades Técnicas 💼
+## Habilidades Técnicas 💼  
 
-- **Lenguajes de Programación:** HTML, Java, Python, JavaScript, CSS, Testing.
-- **Frameworks:** React.js, Django, Flask.
-- **Herramientas y Tecnologías:** Git, Github, VSCode, MySQL, MongoDB, Pgadmin.
-- **Metodologías:** Programación Orientada a Objetos, Desarrollo Ágil.
+🐍 Python: He estado trabajando en proyectos utilizando Python, un lenguaje versátil y poderoso.
+☕ Java: También tengo experiencia en Java.
+🌐 JavaScript (JS): Me he sumergido en el mundo del desarrollo web y he trabajado con JavaScript para crear interacciones dinámicas en sitios web.
+🌐 HTML y CSS: He aprendido a crear sitios web utilizando HTML para la estructura y CSS para el diseño y estilo de la página web.
+🖥️ Node.js: He explorado el entorno de ejecución de Node.js.
+🛢️ PGAdmin: He utilizado PGAdmin para administrar bases de datos PostgreSQL en proyectos de bases de datos.
+📱 Android Development (Java/Kotlin): He trabajado en el desarrollo de aplicaciones para dispositivos Android utilizando Java y Kotlin.
 
-## Proyectos Destacados 🚀
 
-- **Proyecto de Tienda en Línea:** Desarrollé una tienda en línea utilizando React.js y Node.js, permitiendo a los usuarios explorar productos y realizar compras seguras.
-- **Sitio Web Personal:** Diseñé y desarrollé mi sitio web personal (portafolio) utilizando HTML, CSS y JavaScript para mostrar mis habilidades y proyectos.
 
 ## Objetivos Actuales 🎯
 
