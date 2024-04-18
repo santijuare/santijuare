@@ -5,7 +5,7 @@ Me especializo en varios lenguajes y tecnologías, incluyendo HTML, Java, Python
 
 ## Acerca de mí 🌟
 
-- 🎓 Actualmente estoy cursando Tecnicatura en programación en la Universidad Tecnologica Nacional y diversos cursos Online.
+- 🎓 Actualmente estoy cursando Full Stack Python en Codo a Codo.
 - 💻 Me apasiona descubrir y aprender nuevas tecnologías y desarrollar soluciones creativas a problemas complejos.
 - 🌱 Estoy constantemente aprendiendo y mejorando mis habilidades de programación y desarrollo web.
 
